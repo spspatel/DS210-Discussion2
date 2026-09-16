@@ -8,8 +8,9 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+_DS210 Disc team_
 
 ## Members
 
-- _nobody has signed on yet_
+- _Shreeya_
+
